@@ -8,7 +8,7 @@ Founder of [Software.Land](https://software.land), building systems for semantic
 
 ### [Software.Land Search](https://github.com/Software-Land/search)
 
-Open-source search engine built with TypeScript, featuring positional inverted indexes, compact typed-array representations, block-level pruning, and ranking optimizations.
+Source-available search engine built with TypeScript, featuring positional inverted indexes, compact typed-array representations, block-level pruning, and ranking optimizations.
 
 ### [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
