@@ -14,8 +14,8 @@ Source-available search engine built with TypeScript, featuring positional inver
 
 Contributions to the C/C++ LLM inference ecosystem:
 
-- [#27920](https://github.com/ggml-org/llama.cpp/pull/27920) — Qwen3.5 embedding model conversion support
 - [#29060](https://github.com/ggml-org/llama.cpp/pull/29060) — HTTP 400 handling for invalid embedding requests
+- [#27920](https://github.com/ggml-org/llama.cpp/pull/27920) — Qwen3.5 embedding model conversion support
 - [#16541](https://github.com/ggml-org/llama.cpp/pull/16541) — Raw embedding output support
 
 ## Areas of Interest
