@@ -1,6 +1,6 @@
 # Sam Malayek
 
-Software engineer specializing in search systems, algorithms, performance optimization, and machine learning infrastructure. Over nearly a decade of professional experience, I've built a track record of delivering reliable, maintainable, and production-tested software, backed by rigorous, deterministic testing. My code reviews and pull requests across the companies listed on my LinkedIn profile reflect this engineering discipline.
+Software engineer specializing in search systems, algorithms, performance optimization, and machine learning infrastructure. Over nearly a decade of professional experience, I've built a track record of delivering reliable, maintainable, and production-tested software, backed by rigorous, deterministic testing. My code reviews and pull requests across the companies listed on my LinkedIn profile (incl. Unicorn & Big Tech) reflect this engineering discipline.
 
 Founder of [Software.Land](https://software.land), building systems for semantic knowledge representation, search, and learning progression.
 
