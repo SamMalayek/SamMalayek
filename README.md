@@ -19,7 +19,7 @@ Contributions to the C/C++ LLM inference ecosystem:
 - [#27920](https://github.com/ggml-org/llama.cpp/pull/27920) — Qwen3.5 embedding model conversion support
 - [#16541](https://github.com/ggml-org/llama.cpp/pull/16541) — Raw embedding CLI output support
 
-Earlier on in my llama.cpp work, I was taking it very casually, but I'm starting to take it more seriously now. I'm even beginning to get closer to no longer being a novice in LLM inference engineering.
+Earlier on in my llama.cpp work, I was taking it very casually, but I'm starting to take it more seriously now. I'm even getting closer to no longer being a novice in LLM inference engineering.
 
 ## Areas of Interest
 
