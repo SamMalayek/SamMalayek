@@ -4,6 +4,8 @@ Software engineer specializing in search systems, algorithms, performance optimi
 
 Founder of [Software.Land](https://software.land), building systems for semantic knowledge representation, search, and learning progression.
 
+Earlier on in my llama.cpp work, I was taking it very casually, but I'm starting to take it more seriously now. I'm even beginning to get closer to no longer being a novice in LLM inference engineering.
+
 ## Selected Work
 
 ### [Software.Land Search](https://github.com/Software-Land/search)
