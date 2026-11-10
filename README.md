@@ -27,7 +27,7 @@ After some earlier safe (as always) experimentation, I'm getting closer to no lo
 
 ## Areas of Interest
 
-Search and information retrieval · Algorithms and data structures · LLM inference · Knowledge graphs
+Search and information retrieval · Algorithms and data structures · LLM inference · Knowledge graphs · Machine learning infrastructure
 
 ## Relevant X Posts
 
