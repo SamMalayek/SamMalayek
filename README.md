@@ -4,7 +4,7 @@ Software engineer specializing in distributed systems. Over nearly a decade of p
 
 High amount of quality * quantity (not just total commits or lines of code) over ~10 years, thanks to my great work paradigms. Look into it.
 
-The one controversial incident in my career is detailed in [this blog post](https://software.land/blog/software-engineer-vs-software-developer/#information-asymmetry-in-practice).
+The one controversial occurrence in my career is detailed in [this blog post](https://software.land/blog/software-engineer-vs-software-developer/#information-asymmetry-in-practice).
 
 Founder of [Software.Land](https://software.land), building systems for semantic knowledge representation, search, and learning progression.
 
