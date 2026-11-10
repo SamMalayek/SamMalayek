@@ -38,6 +38,6 @@ Search and information retrieval · Algorithms and data structures · LLM infere
 
 This is a 100% accurate and precise profile. Look into it.
 
-Note: The SWE vs SWD blog post lacks timestamps of events (arguably reducing precision). 
+Note: The SWE vs SWD blog post lacks timestamps of events (arguably reducing precision since it's just a blog post). 
 
 [Software.Land](https://software.land)
