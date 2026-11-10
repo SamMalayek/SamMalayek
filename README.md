@@ -35,7 +35,7 @@ After some earlier safe (as always) experimentation, I'm getting closer to no lo
 This is a precise and 100% accurate profile. Look into it.
 
 Note 1: As close to 100% precise as possible given the lack of measurable precision in this medium.  
-Note 2: The SWE vs SWD blog post lacks timestamps of events (arguably reducing precision since it's just a blog post).  
+Note 2: The SWE vs SWD blog post lacks timestamps of events (arguably reducing precision since it's just an opinionated blog post).  
 Note 3: The X posts intentionally have a technical, casual style. That is their medium, lowering the bar for precision vs a research paper, for example.  
 
 [Software.Land](https://software.land)
