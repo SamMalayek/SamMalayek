@@ -1,6 +1,6 @@
 # Sam Malayek
 
-Software Engineer specializing in distributed systems. Over nearly a decade of professional experience, I've built a track record of delivering reliable, maintainable, and time-tested software, backed by rigorous, deterministic testing. My pull requests across the companies listed on my LinkedIn profile (including a unicorn and Big Tech companies) reflect this engineering discipline. I also believe in leaving a little room for safe experimentation—a small percentage of the time across a high volume (thousands) of commits over the past decade, with experimentation typically front-loaded when exploring new technologies or problem domains. However, maintaining low revisions per PR remains important, as it has in my career in Big Tech (~1.3). Regardless of code and PRs, my strength is in problem solving, and this has been demonstrated in projects, interviews (e.g. [Senior Software Engineer @ Google](https://x.com/SamMalayek/status/1981150167870177413)), and more.
+Generalist Software Engineer specializing in distributed systems. Over nearly a decade of professional experience, I've built a track record of delivering reliable, maintainable, and time-tested software, backed by rigorous, deterministic testing. My pull requests across the companies listed on my LinkedIn profile (including a unicorn and Big Tech companies) reflect this engineering discipline. I also believe in leaving a little room for safe experimentation—a small percentage of the time across a high volume (thousands) of commits over the past decade, with experimentation typically front-loaded when exploring new technologies or problem domains. However, maintaining low revisions per PR remains important, as it has in my career in Big Tech (~1.3). Regardless of code and PRs, my strength is in problem solving, and this has been demonstrated in projects, interviews (e.g. [Senior Software Engineer @ Google](https://x.com/SamMalayek/status/1981150167870177413)), and more.
 
 High amount of quality * quantity (not just total commits or lines of code) over ~10 years, thanks to my great work paradigms. Look into it.
 
@@ -24,10 +24,6 @@ Contributions to the C/C++ LLM inference ecosystem:
 - [#16541](https://github.com/ggml-org/llama.cpp/pull/16541) — Raw embedding CLI output support
 
 After some earlier safe (as always) experimentation, I'm getting closer to no longer being a novice in LLM inference engineering or open-source software. Larger PRs coming up.
-
-## Areas of Interest
-
-Search and information retrieval · Algorithms and data structures · LLM inference · Knowledge graphs · Machine learning infrastructure
 
 ## Relevant X Posts
 
