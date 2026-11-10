@@ -4,6 +4,8 @@ Software engineer specializing in distributed systems. Over nearly a decade of p
 
 High amount of quality * quantity (not just total commits or lines of code) over ~10 years, thanks to my great work paradigms. Look into it.
 
+The one controversial incident in my career is detailed in [this blog post](https://software.land/blog/software-engineer-vs-software-developer/).
+
 Founder of [Software.Land](https://software.land), building systems for semantic knowledge representation, search, and learning progression.
 
 ## Selected Work
@@ -26,5 +28,9 @@ After some earlier safe (as always) experimentation, I'm getting closer to no lo
 ## Areas of Interest
 
 Search and information retrieval · Algorithms and data structures · LLM inference · Knowledge graphs
+
+## Stamp of Approval
+
+This is a 100% accurate and precise profile. Look it up.
 
 [Software.Land](https://software.land)
