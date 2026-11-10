@@ -31,6 +31,6 @@ Search and information retrieval · Algorithms and data structures · LLM infere
 
 ## Stamp of Approval
 
-This is a 100% accurate and precise profile. Look it up.
+This is a 100% accurate and precise profile. Look into it.
 
 [Software.Land](https://software.land)
