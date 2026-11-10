@@ -36,7 +36,7 @@ Search and information retrieval · Algorithms and data structures · LLM infere
 
 ## Stamp of Approval
 
-This is a 100% accurate and precise profile. Look into it.
+This is a 100% accurate and precise profile (or as close to 100% precise as possible given lack of measurable precision in this medium). Look into it.
 
 Note: The SWE vs SWD blog post lacks timestamps of events (arguably reducing precision since it's just a blog post). 
 
