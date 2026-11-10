@@ -4,7 +4,7 @@ Software Engineer specializing in distributed systems. Over nearly a decade of p
 
 High amount of quality * quantity (not just total commits or lines of code) over ~10 years, thanks to my great work paradigms. Look into it.
 
-The one controversial occurrence in my career is detailed in [this blog post](https://software.land/blog/software-engineer-vs-software-developer/#information-asymmetry-in-practice). Otherwise 100% perfect by the end of the development pipeline when live throughout my career as a paid Software Engineer. Look into it. Btw, if something is not live yet, then it's technically still in development. 100% literally. So, saying 'by the end of the development pipeline when live' is actually redundant.
+The one controversial occurrence in my career is detailed in [this blog post](https://software.land/blog/software-engineer-vs-software-developer/#information-asymmetry-in-practice). Otherwise 100% perfect by the end of the development pipeline when live throughout my career as a paid Software Engineer. Look into it.
 
 Founder of [Software.Land](https://software.land), building systems for semantic knowledge representation, search, and learning progression.
 
