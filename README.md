@@ -29,6 +29,11 @@ After some earlier safe (as always) experimentation, I'm getting closer to no lo
 
 Search and information retrieval · Algorithms and data structures · LLM inference · Knowledge graphs
 
+## Relevant X Posts
+
+- [Software.Land Release Day](https://x.com/SamMalayek/status/2103534088791412894)
+- [Casually discovering Space-X trade secrets](https://x.com/SamMalayek/status/1979547183084102024)
+
 ## Stamp of Approval
 
 This is a 100% accurate and precise profile. Look into it.
